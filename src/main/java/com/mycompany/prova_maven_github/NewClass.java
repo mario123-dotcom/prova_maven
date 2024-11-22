@@ -10,5 +10,5 @@ package com.mycompany.prova_maven_github;
  * @author Mario Stanco
  */
 public class NewClass {
-    
+    public int boh;
 }
